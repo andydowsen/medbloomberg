@@ -1,5 +1,4 @@
 import {
-  Lexend,
   Inter,
   Raleway,
   Manrope,

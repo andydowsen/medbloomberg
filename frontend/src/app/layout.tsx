@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import localFont from "next/font/local";
 import "./globals.css";
 import RoutingNavbar from "@/uicomponents/shared/Navbar.shared.uicomponents";
 import fonts from "@/lib/utils/fonts";
